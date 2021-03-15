@@ -5,4 +5,6 @@
 
 ```sh
 mvn jetty:run
+
+http :8080/hello
 ```
